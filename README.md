@@ -3,7 +3,7 @@
 Аналитический проект для портфолио стажёра-аналитика.  
 Проверяем, влияют ли промо-акции на продажи, используя квази-A/B анализ и визуализации.
 
-[![Открыть ноутбук](https://img.shields.io/badge/открыть-на-Jupyter-orange)](ProjectABshop_FULL_Final.ipynb)
+[![Открыть ноутбук](https://img.shields.io/badge/открыть-на-Jupyter-orange)](ProjectABshop.ipynb)
 
 ---
 
