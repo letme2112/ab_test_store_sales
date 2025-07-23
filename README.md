@@ -54,7 +54,7 @@
 ## 📁 Структура репозитория
 
 ```text
-ProjectABshop_FULL_Final.ipynb   # 📓 Основной Jupyter Notebook
+ProjectABshop.ipynb   # 📓 Основной Jupyter Notebook
 store_sales.csv                  # 📂 Датасет
 ProjectABshop.docx               # 📝 Презентационный отчёт
 README.md                        # 📘 Этот файл
