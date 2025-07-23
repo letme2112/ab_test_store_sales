@@ -79,4 +79,4 @@ README.md                        # 📘 Этот файл
 ---
 
 📌 Проект выполнен для стажёрского портфолио  
-📬 [Связаться со мной](mailto:youremail@example.com)
+📬 [Связаться со мной](mailto:ar.al.nosov@gmail.com)
